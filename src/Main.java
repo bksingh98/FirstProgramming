@@ -3,7 +3,7 @@ public class Main {
 
        ThreadPract1 T1 = new ThreadPract1();
        ThreadPract2 T2 = new ThreadPract2();
-
+       //starting threads
        T1.start();
        T2.start();
 
